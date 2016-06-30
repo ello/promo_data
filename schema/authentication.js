@@ -9,13 +9,13 @@ module.exports = {
   definitions: {
     uriString: {
       type: 'string',
-      format: 'uri'
+      format: 'uri',
     },
     assetUri: {
       allOf: [
         { $ref: '#/definitions/uriString' },
-        { pattern: 'assets\\.ello\\.co' }
-      ]
+        { pattern: 'assets\\.ello\\.co' },
+      ],
     },
     authenticationPromo: {
       type: 'object',
@@ -26,24 +26,24 @@ module.exports = {
           type: 'object',
           properties: {
             hdpi: assetUrlObject([
-              { pattern: 'ello-hdpi-' }
+              { pattern: 'ello-hdpi-' },
             ]),
             xhdpi: assetUrlObject([
-              { pattern: 'ello-xhdpi-' }
+              { pattern: 'ello-xhdpi-' },
             ]),
             optimized: assetUrlObject([
-              { pattern: 'optimized' }
-            ])
+              { pattern: 'optimized' },
+            ]),
           },
           required: ['hdpi', 'xhdpi', 'optimized'],
-        }
+        },
       },
       additionalProperties: false,
-      required: ['avatar', 'username', 'coverImage']
-    }
+      required: ['avatar', 'username', 'coverImage'],
+    },
   },
   type: 'array',
   minItems: 1,
   maxItems: 20,
-  items: { $ref: '#/definitions/authenticationPromo' }
+  items: { $ref: '#/definitions/authenticationPromo' },
 }
