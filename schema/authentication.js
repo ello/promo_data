@@ -1,19 +1,6 @@
-const assetUriRules = [
-  { type: 'string', format: 'uri' },
-  { pattern: 'assets\\.ello\\.co' }
-]
-
-function assetUrlObject(extraRules) {
-  extraRules = extraRules || []
-  return {
-    type: 'object',
-    properties: {
-      url: {
-        allOf: assetUriRules.concat(extraRules)
-      }
-    }
-  }
-}
+const sharedSchemas = require('./shared')
+const assetUrlObject = sharedSchemas.assetUrlObject
+const avatarObject = sharedSchemas.avatarObject
 
 module.exports = {
   title: 'Authentication Promo',
@@ -34,16 +21,7 @@ module.exports = {
       type: 'object',
       properties: {
         username: { type: 'string' },
-        avatar: {
-          type: 'object',
-          properties: {
-            regular: assetUrlObject([
-              { pattern: 'user' },
-              { pattern: 'avatar' },
-              { pattern: 'ello-regular' }
-            ])
-          }
-        },
+        avatar: avatarObject,
         coverImage: {
           type: 'object',
           properties: {
@@ -56,7 +34,8 @@ module.exports = {
             optimized: assetUrlObject([
               { pattern: 'optimized' }
             ])
-          }
+          },
+          required: ['hdpi', 'xhdpi', 'optimized'],
         }
       },
       additionalProperties: false,
