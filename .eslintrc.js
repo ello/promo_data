@@ -13,6 +13,7 @@ module.exports = {
       "error",
       2
     ],
+    "quote-props": ["error", "consistent-as-needed"],
     "linebreak-style": [
       "error",
       "unix"
