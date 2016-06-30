@@ -21,18 +21,18 @@ module.exports = {
           type: 'object',
           properties: {
             hdpi: assetUrlObject([
-              { pattern: 'ello-hdpi-' }
+              { pattern: 'ello-hdpi-' },
             ]),
             xhdpi: assetUrlObject([
-              { pattern: 'ello-xhdpi-' }
+              { pattern: 'ello-xhdpi-' },
             ]),
             optimized: assetUrlObject([
-              { pattern: 'optimized' }
-            ])
+              { pattern: 'optimized' },
+            ]),
           },
           required: ['hdpi', 'xhdpi', 'optimized'],
-        }
-      }
-    }
+        },
+      },
+    },
   },
 }
