@@ -6,17 +6,11 @@ module.exports = {
   title: 'Authentication Promo',
   id: 'authentication',
   $schema: 'http://json-schema.org/draft-04/schema#',
+  type: 'array',
+  minItems: 1,
+  maxItems: 20,
+  items: { $ref: '#/definitions/authenticationPromo' },
   definitions: {
-    uriString: {
-      type: 'string',
-      format: 'uri',
-    },
-    assetUri: {
-      allOf: [
-        { $ref: '#/definitions/uriString' },
-        { pattern: 'assets\\.ello\\.co' },
-      ],
-    },
     authenticationPromo: {
       type: 'object',
       properties: {
@@ -42,8 +36,4 @@ module.exports = {
       required: ['avatar', 'username', 'coverImage'],
     },
   },
-  type: 'array',
-  minItems: 1,
-  maxItems: 20,
-  items: { $ref: '#/definitions/authenticationPromo' },
 }
