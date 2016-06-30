@@ -14,7 +14,6 @@ module.exports = function (chai, utils) {
     return function (schema) {
       const ajv = chai.ajv
       const isValid = ajv.validate(schema, this._obj)
-      const errors = ajv.errors
       this.assert(isValid, ajv.errorsText(ajv.errors, {dataVar: 'promos'}), 'Should not be valid!')
     }
   })
