@@ -1,6 +1,6 @@
 const chai = require('chai')
 const chaiJSON = require('./support/ajv')
-const { expect } = chai
+const expect = chai.expect
 
 chai.use(chaiJSON)
 
