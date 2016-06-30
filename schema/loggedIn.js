@@ -3,6 +3,9 @@ const avatarObject = sharedSchemas.avatarObject
 const assetUrlObject = sharedSchemas.assetUrlObject
 
 module.exports = {
+  title: 'Logged In Promo',
+  id: 'loggedIn',
+  $schema: 'http://json-schema.org/draft-04/schema#',
   type: 'array',
   minItems: 1,
   maxItems: 20,
