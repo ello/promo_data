@@ -14,10 +14,10 @@ describe('authentication', function () {
 })
 
 describe('loggedIn', function () {
-  const loggedInSchema = require('../schema/loggedIn')
+  const promoWithCaption = require('../schema/promoWithCaption')
   const loggedInPromo = require('../data/loggedIn')
 
   it('is valid', function () {
-    expect(loggedInPromo).to.validateWithSchema(loggedInSchema)
+    expect(loggedInPromo).to.validateWithSchema(promoWithCaption)
   })
 })
