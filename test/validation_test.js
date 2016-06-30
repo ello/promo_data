@@ -12,3 +12,12 @@ describe('authentication', function () {
     expect(authPromo).to.validateWithSchema(authSchema)
   })
 })
+
+describe('loggedIn', function () {
+  const loggedInSchema = require('../schema/loggedIn')
+  const loggedInPromo = require('../data/loggedIn')
+
+  it('is valid', function () {
+    expect(loggedInPromo).to.validateWithSchema(loggedInSchema)
+  })
+})
