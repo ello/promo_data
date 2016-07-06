@@ -32,7 +32,16 @@ module.exports = {
           },
           required: ['hdpi', 'xhdpi', 'optimized'],
         },
+        cta: {
+          type: 'object',
+          properties: {
+            href: { type: 'string', format: 'uri' },
+            caption: { type: 'string' },
+          },
+        },
       },
+      additionalProperties: false,
+      required: ['username', 'caption', 'avatar', 'coverImage'],
     },
   },
 }
