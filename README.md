@@ -34,4 +34,5 @@ Then you're good!
 - Open a new Pull Request containing the changes to the `.json` files
 - Wait for tests to pass on Circle (the pull request will acquire a green check mark)
 - After the PR is reviewed, merge to master
-- The data will be automatically deployed to staging after this point
+- The data will be automatically deployed to staging (ello.ninja) after this point
+- once approved, use the /promo slack command in the support-bot channel and they will be promoted to production
