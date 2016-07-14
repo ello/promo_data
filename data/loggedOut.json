@@ -48,62 +48,66 @@
     }
   },
   {
-    "username": "jchavarriajr",
+    "username": "bolinchang",
     "caption": "The Creators Network.",
     "avatar": {
       "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/1209922/ello-regular-c7cbccb7.png"
+        "url": "https://assets.ello.co/uploads/user/avatar/984222/ello-regular-1e02b1c4.png"
       }
     },
     "coverImage": {
       "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170070/ello-hdpi-34718d83.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243369/ello-hdpi-7e72ee62.jpg"
       },
       "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170070/ello-xhdpi-34718d83.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243369/ello-xhdpi-7e72ee62.jpg"
       },
       "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170070/ello-optimized-34718d83.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243369/ello-optimized-7e72ee62.jpg"
       }
     }
   },
   {
-    "username": "elmundoahifuera",
+    "username": "liviafalcaru",
     "caption": "The Creators Network.",
     "avatar": {
       "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/2799669/ello-regular-d088958a.png"
+        "url": "https://assets.ello.co/uploads/user/avatar/2831051/ello-regular-eff6719c.png"
       }
     },
     "coverImage": {
       "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170073/ello-hdpi-77c9b820.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243367/ello-hdpi-1de2b8a1.jpg"
       },
       "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170073/ello-xhdpi-77c9b820.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243367/ello-xhdpi-1de2b8a1.jpg"
       },
       "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170073/ello-optimized-77c9b820.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243367/ello-optimized-1de2b8a1.jpg"
       }
     }
   },
   {
-    "username": "noelialozano",
-    "caption": "The Creators Network.",
+    "username": "annaku",
+    "caption": "Get the Ello Android App.",
+    "cta": {
+      "href": "https://play.google.com/store/apps/details?id=co.ello.ElloApp",
+      "caption": "Download now"
+    },
     "avatar": {
       "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/2093562/ello-regular-221601fe.png"
+        "url": "https://assets.ello.co/uploads/user/avatar/912534/ello-regular-0158f993.png"
       }
     },
     "coverImage": {
       "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170075/ello-hdpi-e3e642c7.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243365/ello-hdpi-45c9db04.jpg"
       },
       "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170075/ello-xhdpi-e3e642c7.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243365/ello-xhdpi-45c9db04.jpg"
       },
       "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4170075/ello-optimized-e3e642c7.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4243365/ello-optimized-45c9db04.jpg"
       }
     }
   }
