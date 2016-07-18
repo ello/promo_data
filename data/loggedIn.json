@@ -129,7 +129,11 @@
   },
   {
     "username": "manuelmartini",
-    "caption": "Open source by default.",
+    "caption": "Ello is community.",
+    "cta": {
+      "href": "https://ello.co/wtf/resources/community-directory/",
+      "caption": "Find your community here."
+    },
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/412492/ello-regular-771439cb.png"
