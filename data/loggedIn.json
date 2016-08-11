@@ -200,6 +200,26 @@
     "caption": "Experience the promise of the internet.",
     "avatar": {
       "regular": {
+        "url": "https://assets.ello.co/uploads/user/avatar/99232/ello-regular-48d1d39e.png"
+      }
+    },
+    "coverImage": {
+      "hdpi": {
+        "url": "https://assets.ello.co/uploads/asset/attachment/4391722/ello-hdpi-9eef0b3e.jpg"
+      },
+      "xhdpi": {
+        "url": "https://assets.ello.co/uploads/asset/attachment/4391722/ello-xhdpi-9eef0b3e.jpg"
+      },
+      "optimized": {
+        "url": "https://assets.ello.co/uploads/asset/attachment/4391722/ello-optimized-9eef0b3e.jpg"
+      }
+    }
+  },
+  {
+    "username": "shivai",
+    "caption": "Supporting creators since 2014.",
+    "avatar": {
+      "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/2836155/ello-regular-3b21c458.png"
       }
     },
@@ -212,26 +232,6 @@
       },
       "optimized": {
         "url": "https://assets.ello.co/uploads/asset/attachment/4391725/ello-optimized-491d34e9.jpg"
-      }
-    }
-  },
-  {
-    "username": "shivai",
-    "caption": "Supporting creators since 2014.",
-    "avatar": {
-      "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/2834643/ello-regular-3bcf9b85.png"
-      }
-    },
-    "coverImage": {
-      "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4300490/ello-hdpi-f1f0d67d.jpg"
-      },
-      "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4300490/ello-xhdpi-f1f0d67d.jpg"
-      },
-      "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4300490/ello-optimized-f1f0d67d.jpg"
       }
     }
   },
