@@ -81,11 +81,7 @@
   },
   {
     "username": "unknownbeing",
-    "caption": "Get the Ello Android App.",
-    "cta": {
-      "href": "https://play.google.com/store/apps/details?id=co.ello.ElloApp",
-      "caption": "Download now"
-    },
+    "caption": "The Creators Network.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/533082/ello-regular-98c90f22.png"
