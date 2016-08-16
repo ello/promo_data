@@ -61,7 +61,7 @@
   },
   {
     "username": "aallaa",
-    "caption": "Humans over algorithms.",
+    "caption": "Build your creative reputation.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/2812305/ello-regular-5ac74e90.png"
@@ -81,11 +81,7 @@
   },
   {
     "username": "chrisburkard",
-    "caption": "Get the Ello iOS App.",
-    "cta": {
-      "href": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fello%2fello",
-      "caption": "Download now"
-    },
+    "caption": "Grow your creative influence.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/938634/ello-regular-f15c11f9.png"
@@ -105,11 +101,7 @@
   },
   {
     "username": "fabianvilla",
-    "caption": "Get the Ello Android App.",
-    "cta": {
-      "href": "https://play.google.com/store/apps/details?id=co.ello.ElloApp",
-      "caption": "Download now"
-    },
+    "caption": "Sell your work & ideas.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/397399/ello-regular-f136fa11.png"
@@ -129,7 +121,7 @@
   },
   {
     "username": "xoxojung",
-    "caption": "Ello is community.",
+    "caption": "Discover creative community.",
     "cta": {
       "href": "https://ello.co/wtf/resources/community-directory/",
       "caption": "Find your community here."
@@ -173,11 +165,7 @@
   },
   {
     "username": "monicasthreads",
-    "caption": "Get the Ello Android App.",
-    "cta": {
-      "href": "https://play.google.com/store/apps/details?id=co.ello.ElloApp",
-      "caption": "Download now"
-    },
+    "caption": "Slow down & check out some cool shit.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/2831882/ello-regular-7aebd28d.png"
@@ -257,7 +245,7 @@
   },
   {
     "username": "karrrlo",
-    "caption": "Explore. Expand. Escape.",
+    "caption": "Creators, curated categories & community.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/18461/ello-regular-3c59dc04.png"
@@ -297,7 +285,7 @@
   },
   {
     "username": "pleid",
-    "caption": "Humans over algorithms.",
+    "caption": "Get hired to do what you love.",
     "avatar": {
       "regular": {
         "url": "https://assets.ello.co/uploads/user/avatar/2761047/ello-regular-01fa5c1c.png"
