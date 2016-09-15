@@ -184,22 +184,26 @@
     }
   },
   {
-    "username": "lassmusic",
-    "caption": "Experience the promise of the internet.",
+    "username": "tommyguerrerolive",
+    "caption": "Tommy Guerrero Live",
+    "cta": {
+      "href": "https://ello.co/tommyguerrerolive",
+      "caption": "Learn more."
+    },
     "avatar": {
       "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/1512020/ello-regular-fe1240c0.png"
+        "url": "https://assets.ello.co/uploads/user/avatar/2847540/ello-regular-ec485097.png"
       }
     },
     "coverImage": {
       "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4520970/ello-hdpi-68afbb4f.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4550885/ello-hdpi-06654d8a.jpg"
       },
       "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4520970/ello-xhdpi-68afbb4f.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4550885/ello-xhdpi-06654d8a.jpg"
       },
       "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4520970/ello-optimized-68afbb4f.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4550885/ello-optimized-06654d8a.jpg"
       }
     }
   },
