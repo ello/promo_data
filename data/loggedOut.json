@@ -1,25 +1,21 @@
 [
   {
-    "username": "tommyguerrerolive",
-    "caption": "Tommy Guerrero Live",
-    "cta": {
-      "href": "https://ello.co/tommyguerrerolive",
-      "caption": "Learn more."
-    },
+    "username": "k2rt",
+    "caption": "The Creators Network.",
     "avatar": {
       "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/2847540/ello-regular-ec485097.png"
+        "url": "https://assets.ello.co/uploads/user/avatar/1051723/ello-regular-e35ad1fe.png"
       }
     },
     "coverImage": {
       "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4550885/ello-hdpi-06654d8a.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4602429/ello-hdpi-a171960a.jpg"
       },
       "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4550885/ello-xhdpi-06654d8a.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4602429/ello-xhdpi-a171960a.jpg"
       },
       "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4550885/ello-optimized-06654d8a.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4602429/ello-optimized-a171960a.jpg"
       }
     }
   },
