@@ -284,22 +284,26 @@
     }
   },
   {
-    "username": "damonsmithstudio",
-    "caption": "Get hired to do what you love.",
+    "username": "metapop",
+    "caption": "Moby Remix Competition.",
+    "cta": {
+      "href": "https://ello.co/metapop/post/1htq5dimalafi48kag5l0a",
+      "caption": "Learn more."
+    },
     "avatar": {
       "regular": {
-        "url": "https://assets.ello.co/uploads/user/avatar/2853897/ello-regular-189aabbd.png"
+        "url": "https://assets.ello.co/uploads/user/avatar/2853882/ello-regular-964cc876.png"
       }
     },
     "coverImage": {
       "hdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4643340/ello-hdpi-e2240091.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4659502/ello-hdpi-d404d318.jpg"
       },
       "xhdpi": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4643340/ello-xhdpi-e2240091.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4659502/ello-xhdpi-d404d318.jpg"
       },
       "optimized": {
-        "url": "https://assets.ello.co/uploads/asset/attachment/4643340/ello-optimized-e2240091.jpg"
+        "url": "https://assets.ello.co/uploads/asset/attachment/4659502/ello-optimized-d404d318.jpg"
       }
     }
   }
