@@ -13,20 +13,3 @@ describe('authentication', function () {
   })
 })
 
-describe('loggedIn', function () {
-  const promoWithCaption = require('../schema/promoWithCaption')
-  const loggedInPromo = require('../data/loggedIn')
-
-  it('is valid', function () {
-    expect(loggedInPromo).to.validateWithSchema(promoWithCaption)
-  })
-})
-
-describe('loggedOut', function () {
-  const promoWithCaption = require('../schema/promoWithCaption')
-  const loggedOutPromo = require('../data/loggedOut')
-
-  it('is valid', function () {
-    expect(loggedOutPromo).to.validateWithSchema(promoWithCaption)
-  })
-})
